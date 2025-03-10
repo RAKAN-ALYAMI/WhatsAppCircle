@@ -1,7 +1,13 @@
 # مميزات نظام WhatsApp Circle
-https://youtu.be/A5dQoXAtHvM
+
 ## نظرة عامة
 نظام WhatsApp circle هو منصة متكاملة لإدارة أرقام الهواتف وتوزيع النقرات بالتساوي بين الموظفين، مصممة خصيصًا للاستخدام مع تطبيق WhatsApp. النظام مبني بلغة PHP مع واجهة مستخدم عربية سهلة الاستخدام.
+
+## فيديو توضيحي
+شاهد الفيديو التوضيحي لنظام WhatsApp Circle:
+
+[![فيديو توضيحي لنظام WhatsApp Circle](https://img.youtube.com/vi/A5dQoXAtHvM/0.jpg)](https://www.youtube.com/watch?v=A5dQoXAtHvM)
+
 
 ## المميزات الرئيسية
 
