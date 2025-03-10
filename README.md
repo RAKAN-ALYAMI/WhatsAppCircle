@@ -5,7 +5,12 @@
 
 ## فيديو توضيحي
 شاهد الفيديو التوضيحي لنظام WhatsApp Circle:
-[![فيديو توضيحي لنظام WhatsApp Circle](https://img.youtube.com/vi/A5dQoXAtHvM/0.jpg)](https://www.youtube.com/watch?v=A5dQoXAtHvM)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=A5dQoXAtHvM">
+    <img src="https://img.youtube.com/vi/A5dQoXAtHvM/0.jpg" alt="فيديو توضيحي لنظام WhatsApp Circle">
+  </a>
+</p>
 
 ## المميزات الرئيسية
 
